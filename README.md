@@ -66,9 +66,7 @@ Files in this repository:
 |     File / Folder      |                         Description                          |
 | :--------------------: | :----------------------------------------------------------: |
 | dete_survey.csv         |The DETE exit survey can be found [here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey)|
-
 |tafe_survey.csv   | The TAFE exit survey can be found [here](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey) |
-
 | Clean and Analyze Employee Exit Surveys.ipynb     | Clean and Analyze Employee Exit Surveys to answer 1;Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer? |
 |         README         |                         Readme file                          |
 
